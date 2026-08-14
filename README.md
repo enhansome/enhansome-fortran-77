@@ -416,7 +416,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Graphics, Plotting, User Interfaces
 
-* [Accis](https://github.com/ihutch/accis) ⭐ 9 | 🐛 2 | 🌐 Fortran | 📅 2024-08-29
+* [Accis](https://github.com/ihutch/accis) ⭐ 9 | 🐛 2 | 🌐 Fortran | 📅 2026-08-13
   – Plotting routines for Fortran, by Ian Hutchinson.
 * [SDL 77](https://github.com/interkosmos/sdl77) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2024-01-05
   – FORTRAN 77 graphics and multimedia library based on SDL 1.2.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

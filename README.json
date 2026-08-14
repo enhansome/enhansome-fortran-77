@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2024-08-29T20:40:42Z",
+            "last_commit": "2026-08-13T18:55:38Z",
             "owner": "ihutch",
             "repo": "accis",
             "stars": 9
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:01.787Z",
+    "last_updated": "2026-08-14T03:26:32.527Z",
     "original_repository": "interkosmos/awesome-fortran-77",
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
     "enhanced_repository": "enhansome/enhansome-fortran-77",
