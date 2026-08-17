@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fortran",
-            "last_commit": "2026-08-01T13:59:20Z",
+            "last_commit": "2026-08-16T12:01:08Z",
             "owner": "opencollab",
             "repo": "arpack-ng",
             "stars": 353
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:23:04.908Z",
+    "last_updated": "2026-08-17T02:21:54.557Z",
     "original_repository": "interkosmos/awesome-fortran-77",
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
     "enhanced_repository": "enhansome/enhansome-fortran-77",
