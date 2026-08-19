@@ -1,299 +1,324 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "f2go",
+              "description": "FORTRAN 77-to-Go translator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140186941,
+                "language": "Go",
+                "last_commit": "2023-08-17T07:29:34Z",
+                "owner": "Konstantin8105",
+                "repo": "f4go",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "f2cl",
+              "description": "A FORTRAN 77 to Common Lisp translator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78379772,
+                "language": "Common Lisp",
+                "last_commit": "2026-05-18T14:10:17Z",
+                "owner": "rtoy",
+                "repo": "f2cl",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "f2cpp",
+              "description": "Perl script to convert FORTRAN 77 to C++ (requires GNU Fortran runtime).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485861,
+                "language": "Perl",
+                "last_commit": "2010-02-10T10:39:17Z",
+                "owner": "victorliu",
+                "repo": "f2cpp",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translators"
+        }
+      ],
       "title": "Compilers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "f2go",
-          "description": "FORTRAN 77-to-Go translator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-08-17T07:29:34Z",
-            "owner": "Konstantin8105",
-            "repo": "f4go",
-            "stars": 51
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "John Burkardt",
+              "description": "Collection of FORTRAN 77 software (GitHub).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6967950,
+                "language": "FORTRAN",
+                "last_commit": "2015-06-02T23:51:08Z",
+                "owner": "johannesgerer",
+                "repo": "jburkardt-f77",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NSWC Library of Mathematics Subroutines",
+              "description": "Subroutines by the Naval Surface Warfare Center (description).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51557802,
+                "language": "Fortran",
+                "last_commit": "2023-10-04T20:46:41Z",
+                "owner": "jacobwilliams",
+                "repo": "nswc",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repositories & Directories"
         },
         {
-          "node_type": "item",
-          "title": "f2cl",
-          "description": "A FORTRAN 77 to Common Lisp translator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2026-05-18T14:10:17Z",
-            "owner": "rtoy",
-            "repo": "f2cl",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ARPACK-NG",
+              "description": "Replacement of ARPACK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19888237,
+                "language": "Fortran",
+                "last_commit": "2026-08-16T12:01:08Z",
+                "owner": "opencollab",
+                "repo": "arpack-ng",
+                "stars": 354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHOL-REV",
+              "description": "Reverse-mode routine written in FORTRAN 77 which uses blocked level-3 BLAS routines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49378946,
+                "language": "Fortran",
+                "last_commit": "2020-05-30T09:46:44Z",
+                "owner": "imurray",
+                "repo": "chol-rev",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IRBEM-LIB",
+              "description": "Provides routines to compute magnetic coordinates for any location in the Earth’s magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329636495,
+                "language": "Fortran",
+                "last_commit": "2025-04-30T12:02:57Z",
+                "owner": "PRBEM",
+                "repo": "IRBEM",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MINUIT",
+              "description": "Numerical minimisation program, by CERN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631339,
+                "language": "Fortran",
+                "last_commit": "2025-03-12T08:35:58Z",
+                "owner": "ramos",
+                "repo": "minuit",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCHF",
+              "description": "Multi-configuration Hartree-Fock (MCHF) atomic-structure package that determines radial functions that define the orbitals of configuration states in the expansion of a non-relativistic wave function of a many-electron system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3531597,
+                "language": "Fortran",
+                "last_commit": "2021-02-18T03:08:16Z",
+                "owner": "atsp-org",
+                "repo": "atsp",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient sorting routines in FORTRAN 77",
+              "description": "Sorting routines in FORTRAN 77 by G. T. Houlsby and S. W. Sloan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354297031,
+                "language": "Fortran",
+                "last_commit": "2025-07-30T12:10:35Z",
+                "owner": "ivan-pi",
+                "repo": "hs-sort",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Timeslap",
+              "description": "Time series analysis package by H. Joseph Newton to accompany his book “Timeslab: A Time Series Analysis Laboratory” (1988).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378453667,
+                "language": "Fortran",
+                "last_commit": "2021-06-19T20:56:27Z",
+                "owner": "Beliavsky",
+                "repo": "Timeslab",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GWMFE",
+              "description": "1D and 2D gradient-weighted moving finite element codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48261248,
+                "language": "Fortran",
+                "last_commit": "2021-07-05T04:44:14Z",
+                "owner": "mfeproject",
+                "repo": "legacy-gwmfe",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TRNFSP3N",
+              "description": "FORTRAN 77 source code for transforming GPS orbit files in SP3 format between different realisations of ITRFs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354483171,
+                "language": "Fortran",
+                "last_commit": "2021-06-22T15:58:45Z",
+                "owner": "Geo-Linux-Calculations",
+                "repo": "trnfsp3n",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Numerical Codes"
         },
         {
-          "node_type": "item",
-          "title": "f2cpp",
-          "description": "Perl script to convert FORTRAN 77 to C++ (requires GNU Fortran runtime).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2010-02-10T10:39:17Z",
-            "owner": "victorliu",
-            "repo": "f2cpp",
-            "stars": 12
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fortran77-Enigma",
+              "description": "Enigma machine emulator in FORTRAN 77.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145269550,
+                "language": "Fortran",
+                "last_commit": "2018-09-23T02:59:08Z",
+                "owner": "barrettotte",
+                "repo": "Fortran77-Enigma",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lucifer",
+              "description": "Implementation of Arthur Sorkin’s variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654620207,
+                "language": "Fortran",
+                "last_commit": "2023-06-16T14:43:15Z",
+                "owner": "interkosmos",
+                "repo": "lucifer",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Accis",
+              "description": "Plotting routines for Fortran, by Ian Hutchinson.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71473545,
+                "language": "Fortran",
+                "last_commit": "2026-08-13T18:55:38Z",
+                "owner": "ihutch",
+                "repo": "accis",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDL 77",
+              "description": "FORTRAN 77 graphics and multimedia library based on SDL 1.2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529947692,
+                "language": "C",
+                "last_commit": "2024-01-05T00:02:48Z",
+                "owner": "interkosmos",
+                "repo": "sdl77",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics, Plotting, User Interfaces"
         }
       ],
-      "title": "Translators"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Codes"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "John Burkardt",
-          "description": "Collection of FORTRAN 77 software (GitHub).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "FORTRAN",
-            "last_commit": "2015-06-02T23:51:08Z",
-            "owner": "johannesgerer",
-            "repo": "jburkardt-f77",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSWC Library of Mathematics Subroutines",
-          "description": "Subroutines by the Naval Surface Warfare Center (description).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2023-10-04T20:46:41Z",
-            "owner": "jacobwilliams",
-            "repo": "nswc",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Repositories & Directories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ARPACK-NG",
-          "description": "Replacement of ARPACK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-08-16T12:01:08Z",
-            "owner": "opencollab",
-            "repo": "arpack-ng",
-            "stars": 354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CHOL-REV",
-          "description": "Reverse-mode routine written in FORTRAN 77 which uses blocked level-3 BLAS routines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2020-05-30T09:46:44Z",
-            "owner": "imurray",
-            "repo": "chol-rev",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IRBEM-LIB",
-          "description": "Provides routines to compute magnetic coordinates for any location in the Earth’s magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2025-04-30T12:02:57Z",
-            "owner": "PRBEM",
-            "repo": "IRBEM",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MINUIT",
-          "description": "Numerical minimisation program, by CERN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2025-03-12T08:35:58Z",
-            "owner": "ramos",
-            "repo": "minuit",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCHF",
-          "description": "Multi-configuration Hartree-Fock (MCHF) atomic-structure package that determines radial functions that define the orbitals of configuration states in the expansion of a non-relativistic wave function of a many-electron system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2021-02-18T03:08:16Z",
-            "owner": "atsp-org",
-            "repo": "atsp",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Efficient sorting routines in FORTRAN 77",
-          "description": "Sorting routines in FORTRAN 77 by G. T. Houlsby and S. W. Sloan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2025-07-30T12:10:35Z",
-            "owner": "ivan-pi",
-            "repo": "hs-sort",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Timeslap",
-          "description": "Time series analysis package by H. Joseph Newton to accompany his book “Timeslab: A Time Series Analysis Laboratory” (1988).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2021-06-19T20:56:27Z",
-            "owner": "Beliavsky",
-            "repo": "Timeslab",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GWMFE",
-          "description": "1D and 2D gradient-weighted moving finite element codes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2021-07-05T04:44:14Z",
-            "owner": "mfeproject",
-            "repo": "legacy-gwmfe",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TRNFSP3N",
-          "description": "FORTRAN 77 source code for transforming GPS orbit files in SP3 format between different realisations of ITRFs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2021-06-22T15:58:45Z",
-            "owner": "Geo-Linux-Calculations",
-            "repo": "trnfsp3n",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Numerical Codes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fortran77-Enigma",
-          "description": "Enigma machine emulator in FORTRAN 77.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2018-09-23T02:59:08Z",
-            "owner": "barrettotte",
-            "repo": "Fortran77-Enigma",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lucifer",
-          "description": "Implementation of Arthur Sorkin’s variant of the Lucifer block cipher, a direct predecessor of DES, ported from FORTRAN IV to FORTRAN 77.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2023-06-16T14:43:15Z",
-            "owner": "interkosmos",
-            "repo": "lucifer",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Cryptography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Accis",
-          "description": "Plotting routines for Fortran, by Ian Hutchinson.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fortran",
-            "last_commit": "2026-08-13T18:55:38Z",
-            "owner": "ihutch",
-            "repo": "accis",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SDL 77",
-          "description": "FORTRAN 77 graphics and multimedia library based on SDL 1.2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-01-05T00:02:48Z",
-            "owner": "interkosmos",
-            "repo": "sdl77",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Graphics, Plotting, User Interfaces"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -302,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383173910,
             "language": "Fortran",
             "last_commit": "2023-07-31T07:46:43Z",
             "owner": "jbdv-no",
@@ -316,6 +342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565575988,
             "language": "Fortran",
             "last_commit": "2022-11-13T21:45:48Z",
             "owner": "btrettel",
@@ -330,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 613416246,
             "language": "Fortran",
             "last_commit": "2024-08-08T13:53:26Z",
             "owner": "MeteoSwiss",
@@ -341,7 +369,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -350,6 +378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45096040,
             "language": "Fortran",
             "last_commit": "2025-09-16T15:07:31Z",
             "owner": "cnescatlab",
@@ -364,6 +393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140984748,
             "language": "Python",
             "last_commit": "2024-10-28T13:19:46Z",
             "owner": "mwallerb",
@@ -375,12 +405,7 @@
       "title": "Static Code Analysis"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Language, FAQs, Tutorials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -389,6 +414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93791672,
             "language": "Fortran",
             "last_commit": "2021-10-08T13:40:13Z",
             "owner": "owainkenwayucl",
@@ -403,6 +429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25366209,
             "language": "FORTRAN",
             "last_commit": "2014-10-22T10:02:35Z",
             "owner": "YeonJu",
@@ -415,8 +442,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:20:20.770Z",
+    "last_updated": "2026-08-19T12:29:02.218Z",
     "original_repository": "interkosmos/awesome-fortran-77",
+    "original_repository_id": 274966515,
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
     "enhanced_repository": "enhansome/enhansome-fortran-77",
     "enhanced_repository_description": null,
