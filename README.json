@@ -112,7 +112,7 @@
                 "last_commit": "2026-08-16T12:01:08Z",
                 "owner": "opencollab",
                 "repo": "arpack-ng",
-                "stars": 355
+                "stars": 356
               }
             },
             {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:17:24.353Z",
+    "last_updated": "2026-08-23T02:26:01.593Z",
     "original_repository": "interkosmos/awesome-fortran-77",
     "original_repository_id": 274966515,
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
