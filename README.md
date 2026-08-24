@@ -190,7 +190,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Numerical Codes
 
-* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 356 | 🐛 49 | 🌐 Fortran | 📅 2026-08-16
+* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 356 | 🐛 48 | 🌐 Fortran | 📅 2026-08-24
   – Replacement of ARPACK.
 * [CHOL-REV](https://github.com/imurray/chol-rev) ⭐ 59 | 🐛 0 | 🌐 Fortran | 📅 2020-05-30
   – Reverse-mode routine written in FORTRAN 77 which uses blocked level-3
@@ -477,14 +477,14 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Serialisation
 
+* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 108 | 🐛 9 | 🌐 C | 📅 2026-07-28
+  – Parallel I/O library for accessing NetCDF files.
 * [F77xml](https://web.archive.org/web/20051103173427/http://icbe61.unife.it:80/f77xml/)
   – C library designed to provide DOM parsing functionality to FORTRAN 77.
 * [Harwell-Boeing](https://people.sc.fsu.edu/~jburkardt/data/hb/hb.html)
   – File format used to store sparse matrices.
 * [NetCDF](https://www.unidata.ucar.edu/software/netcdf/docs-fortran/nc_f77_interface_guide.html)
   – FORTRAN 77 interface to the NetCDF library.
-* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 108 | 🐛 9 | 🌐 C | 📅 2026-07-28
-  – Parallel I/O library for accessing NetCDF files.
 
 ### System
 
