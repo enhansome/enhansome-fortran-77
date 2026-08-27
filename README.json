@@ -508,9 +508,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:27:13.815Z",
-    "original_repository": "interkosmos/awesome-fortran-77",
-    "original_repository_id": 274966515,
+    "last_updated": "2026-08-27T11:06:08.149Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 274966515,
+      "language": null,
+      "last_commit": "2023-12-11T17:03:06Z",
+      "owner": "interkosmos",
+      "repo": "awesome-fortran-77",
+      "stars": 70
+    },
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
     "enhanced_repository": "enhansome/enhansome-fortran-77",
     "enhanced_repository_description": null,
