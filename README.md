@@ -195,7 +195,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 * [CHOL-REV](https://github.com/imurray/chol-rev) ⭐ 59 | 🐛 0 | 🌐 Fortran | 📅 2020-05-30
   – Reverse-mode routine written in FORTRAN 77 which uses blocked level-3
   BLAS routines.
-* [IRBEM-LIB](https://github.com/PRBEM/IRBEM) ⭐ 43 | 🐛 29 | 🌐 Fortran | 📅 2025-04-30
+* [IRBEM-LIB](https://github.com/PRBEM/IRBEM) ⭐ 43 | 🐛 28 | 🌐 Fortran | 📅 2025-04-30
   – Provides routines to compute magnetic coordinates for any location in the
   Earth’s magnetic field, to perform coordinate conversions, to evaluate
   geophysics/space-physics models, and to propagate orbits in time.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
