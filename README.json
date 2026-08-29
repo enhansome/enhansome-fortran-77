@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transpiling fortran code to golang code",
+                "homepage": null,
                 "id": 140186941,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-08-17T07:29:34Z",
+                "open_issues": 7,
                 "owner": "Konstantin8105",
                 "repo": "f4go",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "convert",
+                  "f4go",
+                  "f77",
+                  "fortran",
+                  "go",
+                  "golang",
+                  "transpile"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -28,12 +41,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "F2cl - A Fortran 77 to Common Lisp translator",
+                "homepage": null,
                 "id": 78379772,
                 "language": "Common Lisp",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-18T14:10:17Z",
+                "open_issues": 0,
                 "owner": "rtoy",
                 "repo": "f2cl",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "fortran",
+                  "lisp",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -44,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fortran to C++ \"converter\"",
+                "homepage": "http://cylith.dyndns.org/code/f2cpp",
                 "id": 485861,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2010-02-10T10:39:17Z",
+                "open_issues": 0,
                 "owner": "victorliu",
                 "repo": "f2cpp",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -73,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git Mirror of John Burkardt's great collection of FORTRAN 77 Software",
+                "homepage": "http://people.sc.fsu.edu/~jburkardt/f77_src/f77_src.html",
                 "id": 6967950,
                 "language": "FORTRAN",
+                "license": "NOASSERTION",
                 "last_commit": "2015-06-02T23:51:08Z",
+                "open_issues": 0,
                 "owner": "johannesgerer",
                 "repo": "jburkardt-f77",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -89,12 +121,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NSWC Mathematics Subroutine Library",
+                "homepage": null,
                 "id": 51557802,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2023-10-04T20:46:41Z",
+                "open_issues": 2,
                 "owner": "jacobwilliams",
                 "repo": "nswc",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "fortran",
+                  "nswc"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -112,12 +152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.",
+                "homepage": null,
                 "id": 19888237,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T06:37:56Z",
+                "open_issues": 48,
                 "owner": "opencollab",
                 "repo": "arpack-ng",
-                "stars": 356
+                "stars": 357,
+                "topics": [
+                  "arpack",
+                  "eigenvalue",
+                  "linear-algebra",
+                  "parpack"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -128,12 +178,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backpropagate derivatives through the Cholesky decomposition",
+                "homepage": null,
                 "id": 49378946,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-30T09:46:44Z",
+                "open_issues": 0,
                 "owner": "imurray",
                 "repo": "chol-rev",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "automatic-differentiation",
+                  "backpropagation",
+                  "cholesky",
+                  "cholesky-decomposition",
+                  "differentiation"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -144,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IRBEM-LIB provides routines to compute magnetic coordinates for any location in the Earth's magnetic field, to perform coordinate conversions, to evaluate geophysics/space-physics models, and to propagate orbits in time.",
+                "homepage": "https://prbem.github.io/IRBEM/",
                 "id": 329636495,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-30T12:02:57Z",
+                "open_issues": 28,
                 "owner": "PRBEM",
                 "repo": "IRBEM",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -160,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of the FORTRAN 77 version of the minuit minimisation library. Currently unmantained.",
+                "homepage": "http://cernlib.web.cern.ch/cernlib/",
                 "id": 631339,
                 "language": "Fortran",
+                "license": "GPL-2.0",
                 "last_commit": "2025-03-12T08:35:58Z",
+                "open_issues": 1,
                 "owner": "ramos",
                 "repo": "minuit",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -176,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MCHF Atomic Structure Package",
+                "homepage": "http://www.vuse.vanderbilt.edu/~cff/cff.html",
                 "id": 3531597,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2021-02-18T03:08:16Z",
+                "open_issues": 2,
                 "owner": "atsp-org",
                 "repo": "atsp",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -192,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sorting routines in Fortran 77 by Houlsby & Sloan",
+                "homepage": null,
                 "id": 354297031,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2025-07-30T12:10:35Z",
+                "open_issues": 1,
                 "owner": "ivan-pi",
                 "repo": "hs-sort",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -208,12 +289,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Timeslab Fortran 77 time series package by H. Joseph Newton",
+                "homepage": null,
                 "id": 378453667,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2021-06-19T20:56:27Z",
+                "open_issues": 1,
                 "owner": "Beliavsky",
                 "repo": "Timeslab",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "fortran",
+                  "statistics",
+                  "time-series",
+                  "time-series-analysis",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -224,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Legacy GWMFE1DS and GWMFE2DS codes described in a pair of 1998 SIAM papers.",
+                "homepage": null,
                 "id": 48261248,
                 "language": "Fortran",
+                "license": "MIT",
                 "last_commit": "2021-07-05T04:44:14Z",
+                "open_issues": 0,
                 "owner": "mfeproject",
                 "repo": "legacy-gwmfe",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -240,12 +337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fortran 77 source code for transforming GPS orbit files in SP3 format between different realizations of ITRF's",
+                "homepage": null,
                 "id": 354483171,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2021-06-22T15:58:45Z",
+                "open_issues": 1,
                 "owner": "Geo-Linux-Calculations",
                 "repo": "trnfsp3n",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "geodesic",
+                  "geodesy",
+                  "gps"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -263,12 +369,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enigma machine emulator in Fortran77 (fixed-format)",
+                "homepage": null,
                 "id": 145269550,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2018-09-23T02:59:08Z",
+                "open_issues": 0,
                 "owner": "barrettotte",
                 "repo": "Fortran77-Enigma",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "enigma",
+                  "enigma-cipher",
+                  "enigma-machine",
+                  "enigma-simulator",
+                  "fortran",
+                  "fortran-language",
+                  "fortran77"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -279,12 +398,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lucifer block cipher in FORTRAN 77",
+                "homepage": null,
                 "id": 654620207,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2023-06-16T14:43:15Z",
+                "open_issues": 0,
                 "owner": "interkosmos",
                 "repo": "lucifer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cipher",
+                  "cryptography",
+                  "des",
+                  "encryption",
+                  "fortran",
+                  "fortran-77",
+                  "lucifer"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -302,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fortran plotting and graphics library",
+                "homepage": null,
                 "id": 71473545,
                 "language": "Fortran",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T18:55:38Z",
+                "open_issues": 2,
                 "owner": "ihutch",
                 "repo": "accis",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             },
@@ -318,12 +455,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDL 1.2 abstraction library for FORTRAN 77",
+                "homepage": null,
                 "id": 529947692,
                 "language": "C",
+                "license": "ISC",
                 "last_commit": "2024-01-05T00:02:48Z",
+                "open_issues": 0,
                 "owner": "interkosmos",
                 "repo": "sdl77",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "fortran",
+                  "fortran-77",
+                  "fortran77",
+                  "game-dev",
+                  "sdl",
+                  "sdl-image",
+                  "sdl-mixer"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -341,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fortran binding for ZeroMQ",
+                "homepage": null,
                 "id": 26448539,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2022-10-31T16:47:13Z",
+                "open_issues": 1,
                 "owner": "zeromq",
                 "repo": "f77_zmq",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -364,12 +519,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relational Database Management System in FORTRAN 77",
+                "homepage": null,
                 "id": 277276876,
                 "language": "Fortran",
+                "license": null,
                 "last_commit": "2025-09-14T12:12:01Z",
+                "open_issues": 0,
                 "owner": "interkosmos",
                 "repo": "rim",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "database",
+                  "dbms",
+                  "fortran-77",
+                  "nasa",
+                  "software-archeology"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -387,12 +553,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code repository of PnetCDF library and utilities",
+                "homepage": "https://parallel-netcdf.github.io",
                 "id": 88577349,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T19:23:44Z",
+                "open_issues": 9,
                 "owner": "Parallel-NetCDF",
                 "repo": "PnetCDF",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "c",
+                  "fortran",
+                  "mpi-io",
+                  "netcdf",
+                  "parallel-io",
+                  "pnetcdf"
+                ]
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
             }
@@ -414,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code",
+            "homepage": null,
             "id": 383173910,
             "language": "Fortran",
+            "license": "MIT",
             "last_commit": "2023-07-31T07:46:43Z",
+            "open_issues": 2,
             "owner": "jbdv-no",
             "repo": "to_f90",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         },
@@ -430,12 +613,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 565575988,
             "language": "Fortran",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-13T21:45:48Z",
+            "open_issues": 1,
             "owner": "btrettel",
             "repo": "f2f90",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "fortran"
+            ]
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         },
@@ -446,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Fortran fixed format source code to free format source code",
+            "homepage": null,
             "id": 613416246,
             "language": "Fortran",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-08T13:53:26Z",
+            "open_issues": 3,
             "owner": "MeteoSwiss",
             "repo": "ffixed2free",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         }
@@ -468,12 +663,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "i-Code CNES is a static code analysis tool to help developpers write code compliant with CNES coding rules.",
+            "homepage": null,
             "id": 45096040,
             "language": "Fortran",
+            "license": "EPL-1.0",
             "last_commit": "2025-09-16T15:07:31Z",
+            "open_issues": 48,
             "owner": "cnescatlab",
             "repo": "i-CodeCNES",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "analysis",
+              "bash",
+              "developpers-write",
+              "fortran77",
+              "fortran90",
+              "icode-cnes",
+              "metrics",
+              "shell",
+              "violations"
+            ]
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         },
@@ -484,12 +694,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fortran static analysis tool written in pure Python",
+            "homepage": null,
             "id": 140984748,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-28T13:19:46Z",
+            "open_issues": 2,
             "owner": "mwallerb",
             "repo": "fsource",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "fortran2008",
+              "fortran77",
+              "lexer",
+              "parser",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         }
@@ -506,12 +727,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conway's Game of Life written in Fortran 77 for FreeDOS",
+            "homepage": null,
             "id": 93791672,
             "language": "Fortran",
+            "license": "MIT",
             "last_commit": "2021-10-08T13:40:13Z",
+            "open_issues": 0,
             "owner": "owainkenwayucl",
             "repo": "fortlife",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "braille",
+              "codepage-437",
+              "console",
+              "conway-s-game-of-life",
+              "fortran",
+              "freedos",
+              "gfortran",
+              "ifort",
+              "linux",
+              "nvfortran",
+              "openwatcom",
+              "pbm",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         },
@@ -522,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Four different implementation of \"Hunt the Wumpus\" game in FORTRAN, LISP, Prolog, Literate-Java",
+            "homepage": null,
             "id": 25366209,
             "language": "FORTRAN",
+            "license": null,
             "last_commit": "2014-10-22T10:02:35Z",
+            "open_issues": 1,
             "owner": "YeonJu",
             "repo": "wumpus",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:38:37.735Z"
         }
@@ -536,15 +781,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:38:37.735Z",
+    "last_updated": "2026-08-29T05:05:22.968Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome FORTRAN 77 resources",
+      "homepage": null,
       "id": 274966515,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-11T17:03:06Z",
+      "open_issues": 0,
       "owner": "interkosmos",
       "repo": "awesome-fortran-77",
-      "stars": 70
+      "stars": 70,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fortran",
+        "fortran-77",
+        "fortran77"
+      ]
     },
     "original_repository_sha": "162fd9a3049bbae6a4b5f93dffd18e1a8d7b331e",
     "enhanced_repository": "enhansome/enhansome-fortran-77",
