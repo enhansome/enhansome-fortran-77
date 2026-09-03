@@ -477,7 +477,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Serialisation
 
-* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 109 | 🐛 10 | 🌐 C | 📅 2026-07-28
+* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 109 | 🐛 11 | 🌐 C | 📅 2026-07-28
   – Parallel I/O library for accessing NetCDF files.
 * [F77xml](https://web.archive.org/web/20051103173427/http://icbe61.unife.it:80/f77xml/)
   – C library designed to provide DOM parsing functionality to FORTRAN 77.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
