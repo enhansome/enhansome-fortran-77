@@ -190,7 +190,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Numerical Codes
 
-* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 357 | 🐛 48 | 🌐 Fortran | 📅 2026-08-24
+* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 357 | 🐛 50 | 🌐 Fortran | 📅 2026-08-24
   – Replacement of ARPACK.
 * [CHOL-REV](https://github.com/imurray/chol-rev) ⭐ 59 | 🐛 0 | 🌐 Fortran | 📅 2020-05-30
   – Reverse-mode routine written in FORTRAN 77 which uses blocked level-3
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
