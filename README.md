@@ -190,7 +190,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Numerical Codes
 
-* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 357 | 🐛 49 | 🌐 Fortran | 📅 2026-09-05
+* [ARPACK-NG](https://github.com/opencollab/arpack-ng) ⭐ 357 | 🐛 51 | 🌐 Fortran | 📅 2026-09-05
   – Replacement of ARPACK.
 * [CHOL-REV](https://github.com/imurray/chol-rev) ⭐ 59 | 🐛 0 | 🌐 Fortran | 📅 2020-05-30
   – Reverse-mode routine written in FORTRAN 77 which uses blocked level-3
@@ -477,7 +477,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Serialisation
 
-* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 109 | 🐛 6 | 🌐 C | 📅 2026-09-12
+* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 109 | 🐛 6 | 🌐 C | 📅 2026-09-13
   – Parallel I/O library for accessing NetCDF files.
 * [F77xml](https://web.archive.org/web/20051103173427/http://icbe61.unife.it:80/f77xml/)
   – C library designed to provide DOM parsing functionality to FORTRAN 77.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
