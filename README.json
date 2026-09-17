@@ -161,7 +161,7 @@
                 "open_issues": 51,
                 "owner": "opencollab",
                 "repo": "arpack-ng",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "arpack",
                   "eigenvalue",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:51:43.856Z",
+    "last_updated": "2026-09-17T05:58:23.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
