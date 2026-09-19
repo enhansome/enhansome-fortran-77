@@ -558,7 +558,7 @@
                 "id": 88577349,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T22:14:15Z",
+                "last_commit": "2026-09-18T20:42:37Z",
                 "open_issues": 6,
                 "owner": "Parallel-NetCDF",
                 "repo": "PnetCDF",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:45:05.352Z",
+    "last_updated": "2026-09-19T05:39:59.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
