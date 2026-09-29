@@ -669,7 +669,7 @@
             "language": "Fortran",
             "license": "EPL-1.0",
             "last_commit": "2025-09-16T15:07:31Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "cnescatlab",
             "repo": "i-CodeCNES",
             "stars": 63,
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T06:36:19.271Z",
+    "last_updated": "2026-09-29T06:44:19.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",

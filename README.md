@@ -517,7 +517,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ## Static Code Analysis
 
-* [i-Code CNES](https://github.com/lequal/i-CodeCNES) ⭐ 63 | 🐛 48 | 🌐 Fortran | 📅 2025-09-16
+* [i-Code CNES](https://github.com/lequal/i-CodeCNES) ⭐ 63 | 🐛 49 | 🌐 Fortran | 📅 2025-09-16
   – Static code analysis tool to help developers write code compliant with
   CNES coding rules for FORTRAN 77, Fortran 90 and Shell.
 * [fsource](https://github.com/mwallerb/fsource) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2024-10-28
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
