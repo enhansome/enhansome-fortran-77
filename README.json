@@ -736,7 +736,7 @@
             "open_issues": 0,
             "owner": "owainkenwayucl",
             "repo": "fortlife",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "braille",
               "codepage-437",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:53:59.243Z",
+    "last_updated": "2026-10-11T06:58:39.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",

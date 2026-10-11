@@ -596,7 +596,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ## Games
 
-* [Conway’s Game of Life](https://github.com/owainkenwayucl/fortlife) ⭐ 11 | 🐛 0 | 🌐 Fortran | 📅 2021-10-08
+* [Conway’s Game of Life](https://github.com/owainkenwayucl/fortlife) ⭐ 12 | 🐛 0 | 🌐 Fortran | 📅 2021-10-08
   – Simple implementation in FORTRAN 77 for DOS.
 * [Hunt the Wumpus](https://github.com/YeonJu/wumpus) ⭐ 4 | 🐛 1 | 🌐 FORTRAN | 📅 2014-10-22
   – Four implementations in FORTRAN 77, LISP, Prolog, Literate-Java.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
