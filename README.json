@@ -158,10 +158,10 @@
                 "language": "Fortran",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T10:13:47Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "opencollab",
                 "repo": "arpack-ng",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "arpack",
                   "eigenvalue",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:39:59.102Z",
+    "last_updated": "2026-10-19T05:56:55.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
