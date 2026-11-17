@@ -195,7 +195,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 * [CHOL-REV](https://github.com/imurray/chol-rev) ⭐ 59 | 🐛 0 | 🌐 Fortran | 📅 2020-05-30
   – Reverse-mode routine written in FORTRAN 77 which uses blocked level-3
   BLAS routines.
-* [IRBEM-LIB](https://github.com/PRBEM/IRBEM) ⭐ 44 | 🐛 27 | 🌐 Fortran | 📅 2026-11-13
+* [IRBEM-LIB](https://github.com/PRBEM/IRBEM) ⭐ 44 | 🐛 19 | 🌐 Fortran | 📅 2026-11-16
   – Provides routines to compute magnetic coordinates for any location in the
   Earth’s magnetic field, to perform coordinate conversions, to evaluate
   geophysics/space-physics models, and to propagate orbits in time.
@@ -477,7 +477,7 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ### Serialisation
 
-* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 110 | 🐛 8 | 🌐 C | 📅 2026-10-04
+* [PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) ⭐ 110 | 🐛 7 | 🌐 C | 📅 2026-11-16
   – Parallel I/O library for accessing NetCDF files.
 * [F77xml](https://web.archive.org/web/20051103173427/http://icbe61.unife.it:80/f77xml/)
   – C library designed to provide DOM parsing functionality to FORTRAN 77.
@@ -641,4 +641,4 @@ A curated list of awesome FORTRAN 77 libraries, tools, and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
