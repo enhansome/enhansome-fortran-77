@@ -157,7 +157,7 @@
                 "id": 19888237,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T11:17:04Z",
+                "last_commit": "2026-11-17T22:35:27Z",
                 "open_issues": 50,
                 "owner": "opencollab",
                 "repo": "arpack-ng",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:58:06.442Z",
+    "last_updated": "2026-11-18T08:23:55.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
