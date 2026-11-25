@@ -562,7 +562,7 @@
                 "open_issues": 7,
                 "owner": "Parallel-NetCDF",
                 "repo": "PnetCDF",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "c",
                   "fortran",
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:47:39.981Z",
+    "last_updated": "2026-11-25T09:43:03.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
