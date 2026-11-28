@@ -210,11 +210,11 @@
                 "id": 329636495,
                 "language": "Fortran",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T16:08:45Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-27T16:08:41Z",
+                "open_issues": 18,
                 "owner": "PRBEM",
                 "repo": "IRBEM",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:38:37.735Z"
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:34:17.364Z",
+    "last_updated": "2026-11-28T08:47:41.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FORTRAN 77 resources",
